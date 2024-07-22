@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\Music School\Music School\bin\Debug\net8.0-windows\Music School.exe
+C:\Users\1\source\repos\Music School\Music School\bin\Debug\net8.0-windows\Music School.deps.json
+C:\Users\1\source\repos\Music School\Music School\bin\Debug\net8.0-windows\Music School.runtimeconfig.json
+C:\Users\1\source\repos\Music School\Music School\bin\Debug\net8.0-windows\Music School.dll
+C:\Users\1\source\repos\Music School\Music School\bin\Debug\net8.0-windows\Music School.pdb
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\Music_School.Form1.resources
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\Music School.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\Music School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\Music School.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\Music School.AssemblyInfo.cs
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\Music School.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\Music School.dll
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\refint\Music School.dll
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\Music School.pdb
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\Music School.genruntimeconfig.cache
+C:\Users\1\source\repos\Music School\Music School\obj\Debug\net8.0-windows\ref\Music School.dll
